@@ -1,0 +1,8 @@
+anyio
+openai==0.28
+# pdftotext
+peewee
+pgvector
+python-dotenv
+streamlit
+psycopg2-binary
